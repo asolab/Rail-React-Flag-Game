@@ -1,0 +1,3 @@
+class Fuest < ApplicationRecord
+	
+end
